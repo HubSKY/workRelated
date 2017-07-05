@@ -1,2 +1,3 @@
 # workRelated
-#some basic algorthm
+#sort algorthm
+##including shell sourt,insert sort etc
